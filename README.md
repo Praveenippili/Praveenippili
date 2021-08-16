@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Python, Java and C.
 - 💞️ I’m looking to collaborate with students studying computer engineering.
-- 📫 How to reach me is quite simple. Mail me : ippilipraveen123@gmail.com
+- 📫 How to reach me is quite simple. Mail me.
 
 <!---
 Praveenippili/Praveenippili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
